@@ -1,0 +1,17 @@
+# Environment
+.env
+
+# Storage
+storage/logs/*.log
+storage/uploads/*
+!storage/uploads/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
